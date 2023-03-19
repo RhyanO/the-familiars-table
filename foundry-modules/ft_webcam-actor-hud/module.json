@@ -1,0 +1,15 @@
+{
+    "id": "ft_webcam-actor-hud",
+    "title": "Actor HUD",
+    "description": "A module to add actor details to the webam of the controlling player.",
+    "authors": [
+      {
+      "name": "RhyanO"
+      }
+      ],
+    "version": "0.1",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "10"
+    }
+  }
